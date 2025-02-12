@@ -59,6 +59,8 @@ The server will be available at `http://localhost:5000`
 
 ## API Documentation
 
+You can import the Postman collection attached in the repo for a quick start to the backend.
+
 The following endpoints are available:
 
 - `POST /signup`: Registers a new user.
